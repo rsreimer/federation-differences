@@ -1,0 +1,35 @@
+{
+  "name": "native",
+  "shared": [
+    {
+      "packageName": "@angular/forms",
+      "outFileName": "_angular_forms.zwTjRTT4C2.js",
+      "requiredVersion": "^19.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "19.2.14"
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router.9mCI2txa-r.js",
+      "requiredVersion": "^19.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "19.2.14"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "requiredVersion": "0.0.0",
+      "version": "0.0.0",
+      "packageName": "chunk-HEL3L3QR.js",
+      "outFileName": "chunk-HEL3L3QR.js"
+    }
+  ],
+  "exposes": [
+    {
+      "key": "./module",
+      "outFileName": "module-Y37RU372.js"
+    }
+  ]
+}
